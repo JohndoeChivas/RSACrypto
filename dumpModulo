@@ -1,0 +1,2 @@
+echo  'Recupérer la valeur décimal de N'
+echo "ibase16; BDC8DB3563E10215B9CF29583670BE3E352AC1D78AA8712817" | bc 
